@@ -46,211 +46,216 @@
 \newcommand{\integral}{\displaystyle\int}
 \usepackage{wrapfig}
 \usepackage{setspace}
-\usepackage[utf8]{inputenc}
-\usepackage{mathtools}
+
 \onehalfspacing
-%\documentclass{scrartcl}
 
 \begin{document}                                                                                               %%%
 
 \begin{tcolorbox}[colback=black!0]                                                               %%%      
-    \noindent\begin{minipage}{0.14\linewidth}
-        %	\vspace*{-0.8cm}\hspace*{0.5cm}\includegraphics[height = 2.5cm]{UFSC}
-        \hspace*{-0.2cm}\includegraphics[height = 2.5cm]{UFSC}
-    \end{minipage}
-    \noindent\begin{minipage}{0.69\linewidth}
-        \begin{center}
-            \vspace*{0.2cm}
-            {\bf \Large Universidade Federal de Santa Catarina} \\ \vspace{0.3cm}
-            {\bf \Large Centro Tecnol{\'o}gico de Joinville} \\ \vspace{0.3cm}
-        \end{center}
-    \end{minipage}
-    \noindent\begin{minipage}{0.14\linewidth}
-        \hspace*{1.2cm}\includegraphics[height = 2.5cm]{UFSC}
-    \end{minipage}
+\noindent\begin{minipage}{0.14\linewidth}
+%	\vspace*{-0.8cm}\hspace*{0.5cm}\includegraphics[height = 2.5cm]{UFSC}
+\hspace*{-0.2cm}\includegraphics[height = 2.5cm]{UFSC}
+\end{minipage}
+\noindent\begin{minipage}{0.69\linewidth}
+	\begin{center}
+		\vspace*{0.2cm}
+		{\bf \Large Universidade Federal de Santa Catarina} \\ \vspace{0.3cm}
+		{\bf \Large Centro Tecnológico de Joinville} \\ \vspace{0.3cm}
+	\end{center}
+\end{minipage}
+\noindent\begin{minipage}{0.14\linewidth}
+\hspace*{1.2cm}\includegraphics[height = 2.5cm]{UFSC}
+\end{minipage}
 \end{tcolorbox}
 
 
 \begin{tcolorbox}[colback=black!0]
-    \begin{center}
-        {\Large \bf CÃ¡lculo Vetorial}
-    \end{center}
-    \tcblower
-    \begin{center}
-        {\large \bf  ExercÃ­cios Resolvidos}
-    \end{center}
+\begin{center}
+{\Large \bf Cálculo Vetorial}
+\end{center}
+\tcblower
+\begin{center}
+{\large \bf  Exercícios Resolvidos}
+\end{center}
 \end{tcolorbox}
 
 \begin{enumerate}
-    \item[\textbf{1}]- Encontrar o trabalho realizado pelo campo $\vec{F}(x,y,z)=\dfrac{k}{x^2+y^2+z^2}(x\vec{i}+y\vec{j}+z\vec{k})$ ao longo da curva $\gamma(t)=(\cos t,\sin t,t)$
+\item[\textbf{1}]- Encontrar o trabalho realizado pelo campo $\vec{F}(x,y,z)=\dfrac{k}{x²+y²+z²}(x\vec{i}+y\vec{j}+z\vec{k})$ ao longo da curva $\gamma(t)=(\cos t,\sin t,t)$
 
-          \textbf{ResoluÃ§Ã£o:} Procuraremos $f=f(x,y,z)$ tal que:
+\textbf{Resolução:} Procuraremos $f=f(x,y,z)$ tal que:
 
-          \begin{equation}
-              \dfrac{\partial f}{\partial x}(x,y,z)=\dfrac{k_x}{x^2+y^2+z^2}
-          \end{equation}
-          \begin{equation}
-              \dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x^2+y^2+z^2}
-          \end{equation}
-          \begin{equation}
-              \dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x^2+y^2+z^2}
-          \end{equation}
+%\begin{enumerate}
+%		\item[1]. $\dfrac{\partial f}{\partial x}%(x,y,z)=\dfrac{k_x}{x²+y²+z²}$
+%		\item[2]. $\dfrac{\partial f}{\partial y}%(x,y,z)=\dfrac{k_y}{x²+y²+z²}$
+%		\item[3]. $\dfrac{\partial f}{\partial z}%(x,y,z)=\dfrac{k_z}{x²+y²+z²}$
+%	\end{enumerate}
+	
+	\begin{equation}
+		\dfrac{\partial f}{\partial x}(x,y,z)=\dfrac{k_x}{x²+y²+z²}
+	\end{equation}
+	\begin{equation}
+		\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x²+y²+z²}
+	\end{equation}
+	\begin{equation}
+		\dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x²+y²+z²}
+	\end{equation}
+	
+
+	
+	Integrando (1) em relação a $x$ obtemos:
+	
+	\begin{center}
+	
+	$f(x,y,z)=\integral \frac{k_x}{x²+y²+z²}\,dx + \phi (y,z) = \frac{k}{2} \ln(x²+y²+z²)+ \phi (y,z),$
+	
+	\end{center}
+	
+	Portanto,
+	
+	\begin{center}
+	
+	$\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x²+y²+z²}+\dfrac{\partial \phi}{\partial y}(y,z) \stackrel{(2)}{=} \dfrac{k_y}{x²+y²+z²} \Longrightarrow \dfrac{\partial \phi}{\partial y}(y,z)= 0 \Longrightarrow \phi (y,z) = \phi(z),$
+	\end{center}
+	
+	isto é $\phi$ não depende de $y$. Calculando,
+	
+	\begin{center}
+	
+	$\dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x²+y²+z²}+\dfrac{\partial \phi}{\partial z}(z) \stackrel{(3)}{=} \dfrac{k_z}{x²+y²+z²}\Longrightarrow \dfrac{\partial \phi}{\partial z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
+	
+	\end{center}
+
+isto é $\phi$ também não depende de $x,y,z$.
+
+\begin{center}
+Se tomarmos $\phi = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(x²+y²+z²)+ \phi (y,z)$, portanto,
+\end{center}
+
+$$W=\integral_\gamma \vec{F}\cdot d\vec{r}=f(1,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi²)$$
+\begin{center}
+---------------------------------------------------------------
+\end{center}
+		\item[\textbf{2}]- Mostre que a integral $\int_c (2y²-12x³y³)\,dx +(4xy-9x^4y²)dy$ é independente do caminho e calcule essa integral, sendo $C$ qualquer caminho de $(1,1)$ a $(3,2)$.
+		
+		\doublespacing
+		\textbf{Solução:}		
+		$$\int_C \overline{f} \,d \overline{r}=\int_C f_1dx + f_2dy$$
+		
+		
+		Em que:$$\overline{f}=(f_1,f_2)$$
+		
+		Nesse caso, $\overline{f}(x,y)=(2y²-12x³y³)\vec{i}+(4xy-9x^4y²)\vec{j}$ , $D(\overline{f})=\mathbb{R}²$ é simplismente conexo (não tem buracos).
+		
+		Verificando se o campo $\overline{f}$ é conservativo:
+		\begin{center}
+		$\dfrac{\partial f_1}{\partial y} = 4y - 36x³y² $ ; $\dfrac{\partial f_2}{\partial x} = 4y - 36x³y² $;
+		
+		$\dfrac{\partial f_1}{\partial y} = \dfrac{\partial f_2}{\partial x} \Rightarrow \overline{f} $ é conservativo.
+		\singlespacing 
+		\end{center}
+		Então, existe uma função $\phi(x,y)$, tal que $\Delta \phi(x,y) = \overline{f}(x,y)$.
+		
+		Portanto, pelo Teorema 5.3, $\int_c (2y²-12x³y³)\,dx + (4xy - 9x^4y² \,dy$ é independente do caminho em $\mathbb{R}²$.
+		
+		Vamos encontrar a função $\phi(x,y)$ e usar o Teorema Fundamental para integrais de linha 
+		
+		\doublespacing
+		$\Delta \phi(x,y)=\overline{f}(x,y) \Rightarrow \dfrac{\partial \phi}{\partial x} = 2y²-12x³y³$  e  $\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4y²$.
+		
+	
+	$\dfrac{\partial \phi}{\partial x} = 2y² - 12x³y³ \Rightarrow \phi(x,y) = \int (2y²-12x³y³)\,dx
+ = 2y²x - 3x^4y³ + c(y)$
+		
+		$\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4y² + c'(y) = 4xy - 9x^4y²$.
+		
+		Então, $c'(y)=0$ e $c(y)=k$ (constante). Assim: $\phi(x,y)=(2y²x-3x^4y^3) + k $ e
+		
+		$\int_c (2y²-12x³y³)\,dx + (4xy - 9x^4y²)\,dy = \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$.
+	
+		\singlespacing 
+\begin{center}
+---------------------------------------------------------------
+\end{center}
+		\item[\textbf{3}]- Sejam $\gamma_1$, $\gamma_2$ e $\gamma$ os seguintes caminhos ligando os pontos $A(1,1)$ e $B(2,4)$
+		
+		 
+	\begin{center}
+		$\gamma_1$ : $x = 1 + t$, $y=1+ 3t$, $0\leqslant t \leqslant 1$ (segmento de reta)
+		
+		$\gamma_2$ : $x=t$, $y=t²$, $0\leqslant t \leqslant 2$ (parábola)
+	\end{center}
+	
+	e $\gamma$ consiste do segmento horizontal, do ponto $A(1,1)$ ao ponto $C(2,1)$, seguido do seguimento vertical do ponto $C(2,1)$ ao ponto $B(2,4)$.
+	
+	\begin{enumerate}
+		\item[1]. Ao longo de $\gamma_1$ , temos
+		$$\int_{\gamma_1} ydx + 2xdy = \int_{0}^{1} [(1+3t) + 2(1+t)3]dt = \int_{0}^{1}(7+9t)dt = \dfrac{23}{2}. $$
+		
+		\item[2]. Sobre $\gamma_2$, fazemos as substituições $x=t$, $y=t²$, $dx=dt$ e $dy=2tdt$ e obtemos:
+		$$\int_{\gamma_2} ydx + 2xdy = \int_1^2 [t²+(2t)2t]dt = \int_1^2 5t²dt = \dfrac{35}{3}.$$
+		
+		\item[3]. A poligonal $\gamma$ é composta dos seguimentos $\gamma_3$ e $\gamma_4$ e observando que $y=1$, sobre $\gamma_3$ e $x=2$, sobre $\gamma_4$, obtemos:
+		$$\int_\gamma ydy + 2xdy = \int_{\gamma_3} ydx + 2xdy + \int_{\gamma_4} ydx + 2xdy = \int_1^2 dx + \int_1^4 4dy = 13.$$
+	\end{enumerate}	
+\begin{center}
+---------------------------------------------------------------
+\end{center}
+\item[\textbf{4}]- Use o Teorema de Green para calcular a integral de linha ao longo da curva dada com orientação positiva.
+
+\begin{enumerate}
+	\item $\int_c \cos ydx + x² \sin y dy$, $C$ é o retângulo com vértices $(0,0)$, $(5,0)$, $(5,2)$ e $(0,2)$
+	\item $\int_c (y+ e^{\sqrt{x}}) dx + (2x + \cos y²)dy$, $C$ é o limite da região englobada pelas parábolas $y=x²$ e $x=y²$
+\end{enumerate}
+
+\textbf{Resolução}:
+
+\textbf{(a)}
+
+A região D cercada por $C$ é: $[0,5] \times [0,2]$, então
+
+\begin{align*}
+\int_{c}\cos y\,dx + x²\sin y\,dy&=\iint_{D} \left[\frac{\partial}{\partial x}(x² \sin y) - \frac{\partial}{\partial y}(\cos y)\right]dA=  \int_0^5 \int_0^2[2x \sin y - (-\sin y)]\,dy\,dx\\&=\int_0^5 (2x+1)\,dx\,\int_0^2 \sin y \,dy = \left[x²+x \right]_0^5 \,\, \left[-\cos y \right]_0^2 = 30(1- \cos 2)
+\end{align*}
+\textbf{(b)}
+\begin{align*}
+\int_c (y+ e^{\sqrt{x}})\,dx + (2x + \cos y²)dy& = \iint_{D} \left[\frac{\partial}{\partial x}(2x + \cos y²) - \frac{\partial}{\partial y}(y+ e^{\sqrt{x}})\right]dA\\&= \int_0^1 \int_{y²}^{\sqrt{y}} (2-1)\,dx\,dy = \int_0^1 (y^{1/2}-y²)\,dy = \frac{1}{3}
+\end{align*}
+\begin{center}
+---------------------------------------------------------------
+\end{center}
+\item[\textbf{5}]- Use o teorema de Green para calcular $\int_c \textbf{F}\cdot d\textbf{r} $ (Verifique a orientação da curva antes de aplicar o teorema).
+\begin{enumerate}
+	\item $\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $, $C$ é triangulo de $(0,0)$ a $(0,4)$ a $(2,0)$ a $(0,0)$
+	\item $\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $, $C$ consiste no da curva $y = \cos x $ de $(-\frac{\pi}{2},0)$ a $(\frac{\pi}{2},0)$
+\end{enumerate}
+
+\textbf{Solução}:
+
+\textbf{(a)}
+
+$\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $ e a região $D$ cercada por $C$ é dada por: $\lbrace(x,y)\,|\,0\leq x \leq 2\,\, , 0 \leq y \leq 4-2x\rbrace$. $C$ é percorrido no sentido horário, então $-C$ fornece a orientação positiva.
+
+\begin{align*}
+\int_C \textbf{F}\cdot d\textbf{r}& = -\int_{-C} (y\cos x - xy\sen x)\,dx + (xy + x\cos x)\,dy\\& = - \iint_{D} \left[\frac{\partial}{\partial x}(xy + x\cos x) - \frac{\partial}{\partial y}(y\cos x - xy\sen x)\right]dA\\& = -\iint_{D} (y - x\sen x + \cos x - \cos x + x\sen x)\,dA = -\int_0^2 \int_0^{4-2x}y\,dy\,dx \\& = -\int_0^2 \left[\frac{1}{2}y² \right]_{y=0}^{y=4-2x}\,dx = \int_0^2 \frac{1}{2}(4-2x)²\,dx = -\int_0^2(8-8x+2x²)dx = - \left[8x-4x²+\frac{2}{3}x³ \right]_0^2\\&= -\left(16-16+\frac{16}{3}-0\right)=-\frac{16}{3}
+\end{align*}
+
+\textbf{(b)}
+
+$\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $ e a região $D$ cercada por $C$ é dada por: ${ (x,y)\,|\,-\frac{\pi}{2}\leq x \leq \frac{\pi}{2}\,\, , 0 \leq y \leq \cos x }$. $C$ é percorrido no sentido horário, então $-C$ fornece a orientação positiva.
 
 
 
-          Integrando (1) em relaÃ§Ã£o a $x$ obtemos:
+\begin{align*}
+\int_C \textbf{F}\cdot d\textbf{r}& = -\int_{-C} (e^{-x} + y^2)\,dx + (e^{-y} + x^2)\,dy\\& = - \iint_{D} \left[\frac{\partial}{\partial x}(e^{-y} + x^2) - \frac{\partial}{\partial y}(e^{-x} + y^2)\right]dA\\& = -\int_{-\pi/2}^{\pi/2} \int_0^{\cos x}(2x-2y)\,dy\,dx = -\int_{-\pi/2}^{\pi/2} \left[ 2xy - y² \right]_{y=0}^{y=\cos x}\,dx\\&= -\int_{-\pi/2}^{\pi/2}(2x \cos x - \cos^2 x)\,dx = -\int_{-\pi/2}^{\pi/2} \left(2x\cos x - \frac{1}{2}(1+ \cos 2x)\right)\,dx \\& = - \left[ 2x \sen x + 2 \cos x - \frac{1}{2}\left(x + \frac{1}{2} \sen 2x \right) \right]_{-\pi/2}^{\pi/2} \,\, [
+integrar \,\,\, por\,\,\,partes\,\,\, no\,\,\, primeiro\,\,\, termo] \\& = - \left(\pi - \frac{1}{4}\pi -\pi - \frac{1}{4}\pi\right)= \frac{1}{2}\pi
+\end{align*}
 
-          \begin{center}
-
-              $f(x,y,z)=\integral \frac{k_x}{{x^2+y^2+z^2}\,dx + \phi (y,z) = \frac{k}{2} \ln(x^2+y^2+z^2)+ \phi (y,z),$
-
-          \end{center}
-
-          Portanto,
-
-          \begin{center}
-
-              $\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{{x^2+y^2+z^2}+\dfrac{\p{x^2+y^2+z^2} \Longrightarrow \dfrac{\partial \phi}{\partial y}(y,z)= 0 \Longrightarrow \phi (y,z) = \phi(z),$
-          \end{center}
-
-          isto ï¿½ $\phi$ nï¿½o depende de $y$. Calculando,
-
-          \begin{center}
-
-              $\dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{xï¿½+yï¿½+zï¿½}+\dfrac{\partial \phi}{\partial z}(z) \stackrel{(3)}{=} \dfrac{k_z}{xï¿½+yï¿½+zï¿½}\Longrightarrow \dfrac{\partial \phi}{\partial z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
-
-          \end{center}
-
-          isto ï¿½ $\phi$ tambï¿½m nï¿½o depende de $x,y,z$.
-
-          \begin{center}
-              Se tomarmos $\phi = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(xï¿½+yï¿½+zï¿½)+ \phi (y,z)$, portanto,
-          \end{center}
-
-          $$W=\integral_\gamma \vec{F}\cdot d\vec{r}=f(1,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\piï¿½)$$
-          \begin{center}
-              ---------------------------------------------------------------
-          \end{center}
-    \item[\textbf{2}]- Mostre que a integral $\int_c (2yï¿½-12xï¿½yï¿½)\,dx +(4xy-9x^4yï¿½)dy$ ï¿½ independente do caminho e calcule essa integral, sendo $C$ qualquer caminho de $(1,1)$ a $(3,2)$.
-          \doublespacing
-          \textbf{Soluï¿½ï¿½o:}
-          $$\int_C \overline{f} \,d \overline{r}=\int_C f_1dx + f_2dy$$
-
-
-          Em que:$$\overline{f}=(f_1,f_2)$$
-
-          Nesse caso, $\overline{f}(x,y)=(2yï¿½-12xï¿½yï¿½)\vec{i}+(4xy-9x^4yï¿½)\vec{j}$ , $D(\overline{f})=\mathbb{R}ï¿½$ ï¿½ simplismente conexo (nï¿½o tem buracos).
-
-          Verificando se o campo $\overline{f}$ ï¿½ conservativo:
-          \begin{center}
-              $\dfrac{\partial f_1}{\partial y} = 4y - 36xï¿½yï¿½ $ ; $\dfrac{\partial f_2}{\partial x} = 4y - 36xï¿½yï¿½ $;
-
-              $\dfrac{\partial f_1}{\partial y} = \dfrac{\partial f_2}{\partial x} \Rightarrow \overline{f} $ ï¿½ conservativo.
-              \singlespacing
-          \end{center}
-          Entï¿½o, existe uma funï¿½ï¿½o $\phi(x,y)$, tal que $\Delta \phi(x,y) = \overline{f}(x,y)$.
-
-          Portanto, pelo Teorema 5.3, $\int_c (2yï¿½-12xï¿½yï¿½)\,dx + (4xy - 9x^4yï¿½ \,dy$ ï¿½ independente do caminho em $\mathbb{R}ï¿½$.
-
-          Vamos encontrar a funï¿½ï¿½o $\phi(x,y)$ e usar o Teorema Fundamental para integrais de linha
-
-          \doublespacing
-          $\Delta \phi(x,y)=\overline{f}(x,y) \Rightarrow \dfrac{\partial \phi}{\partial x} = 2yï¿½-12xï¿½yï¿½$  e  $\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4yï¿½$.
-
-
-          $\dfrac{\partial \phi}{\partial x} = 2yï¿½ - 12xï¿½yï¿½ \Rightarrow \phi(x,y) = \int (2yï¿½-12xï¿½yï¿½)\,dx
-              = 2yï¿½x - 3x^4yï¿½ + c(y)$
-
-          $\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4yï¿½ + c'(y) = 4xy - 9x^4yï¿½$.
-
-          Entï¿½o, $c'(y)=0$ e $c(y)=k$ (constante). Assim: $\phi(x,y)=(2yï¿½x-3x^4y^3) + k $ e
-
-          $\int_c (2yï¿½-12xï¿½yï¿½)\,dx + (4xy - 9x^4yï¿½)\,dy = \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$.
-
-          \singlespacing
-          \begin{center}
-              ---------------------------------------------------------------
-          \end{center}
-    \item[\textbf{3}]- Sejam $\gamma_1$, $\gamma_2$ e $\gamma$ os seguintes caminhos ligando os pontos $A(1,1)$ e $B(2,4)$
-
-
-          \begin{center}
-              $\gamma_1$ : $x = 1 + t$, $y=1+ 3t$, $0\leqslant t \leqslant 1$ (segmento de reta)
-
-              $\gamma_2$ : $x=t$, $y=tï¿½$, $0\leqslant t \leqslant 2$ (parï¿½bola)
-          \end{center}
-
-          e $\gamma$ consiste do segmento horizontal, do ponto $A(1,1)$ ao ponto $C(2,1)$, seguido do seguimento vertical do ponto $C(2,1)$ ao ponto $B(2,4)$.
-
-          \begin{enumerate}
-              \item[1]. Ao longo de $\gamma_1$ , temos
-                    $$\int_{\gamma_1} ydx + 2xdy = \int_{0}^{1} [(1+3t) + 2(1+t)3]dt = \int_{0}^{1}(7+9t)dt = \dfrac{23}{2}. $$
-
-              \item[2]. Sobre $\gamma_2$, fazemos as substituiï¿½ï¿½es $x=t$, $y=tï¿½$, $dx=dt$ e $dy=2tdt$ e obtemos:
-                    $$\int_{\gamma_2} ydx + 2xdy = \int_1^2 [tï¿½+(2t)2t]dt = \int_1^2 5tï¿½dt = \dfrac{35}{3}.$$
-
-              \item[3]. A poligonal $\gamma$ ï¿½ composta dos seguimentos $\gamma_3$ e $\gamma_4$ e observando que $y=1$, sobre $\gamma_3$ e $x=2$, sobre $\gamma_4$, obtemos:
-                    $$\int_\gamma ydy + 2xdy = \int_{\gamma_3} ydx + 2xdy + \int_{\gamma_4} ydx + 2xdy = \int_1^2 dx + \int_1^4 4dy = 13.$$
-          \end{enumerate}
-          \begin{center}
-              ---------------------------------------------------------------
-          \end{center}
-    \item[\textbf{4}]- Use o Teorema de Green para calcular a integral de linha ao longo da curva dada com orientaï¿½ï¿½o positiva.
-
-          \begin{enumerate}
-              \item $\int_c \cos ydx + xï¿½ \sin y dy$, $C$ ï¿½ o retï¿½ngulo com vï¿½rtices $(0,0)$, $(5,0)$, $(5,2)$ e $(0,2)$
-              \item $\int_c (y+ e^{\sqrt{x}}) dx + (2x + \cos yï¿½)dy$, $C$ ï¿½ o limite da regiï¿½o englobada pelas parï¿½bolas $y=xï¿½$ e $x=yï¿½$
-          \end{enumerate}
-
-          \textbf{Resoluï¿½ï¿½o}:
-
-          \textbf{(a)}
-
-          A regiï¿½o D cercada por $C$ ï¿½: $[0,5] \times [0,2]$, entï¿½o
-
-          \begin{align*}
-              \int_{c}\cos y\,dx + xï¿½\sin y\,dy & =\iint_{D} \left[\frac{\partial}{\partial x}(xï¿½ \sin y) - \frac{\partial}{\partial y}(\cos y)\right]dA=  \int_0^5 \int_0^2[2x \sin y - (-\sin y)]\,dy\,dx \\&=\int_0^5 (2x+1)\,dx\,\int_0^2 \sin y \,dy = \left[xï¿½+x \right]_0^5 \,\, \left[-\cos y \right]_0^2 = 30(1- \cos 2)
-          \end{align*}
-          \textbf{(b)}
-          \begin{align*}
-              \int_c (y+ e^{\sqrt{x}})\,dx + (2x + \cos yï¿½)dy & = \iint_{D} \left[\frac{\partial}{\partial x}(2x + \cos yï¿½) - \frac{\partial}{\partial y}(y+ e^{\sqrt{x}})\right]dA \\&= \int_0^1 \int_{yï¿½}^{\sqrt{y}} (2-1)\,dx\,dy = \int_0^1 (y^{1/2}-yï¿½)\,dy = \frac{1}{3}
-          \end{align*}
-          \begin{center}
-              ---------------------------------------------------------------
-          \end{center}
-    \item[\textbf{5}]- Use o teorema de Green para calcular $\int_c \textbf{F}\cdot d\textbf{r} $ (Verifique a orientaï¿½ï¿½o da curva antes de aplicar o teorema).
-          \begin{enumerate}
-              \item $\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $, $C$ ï¿½ triangulo de $(0,0)$ a $(0,4)$ a $(2,0)$ a $(0,0)$
-              \item $\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $, $C$ consiste no da curva $y = \cos x $ de $(-\frac{\pi}{2},0)$ a $(\frac{\pi}{2},0)$
-          \end{enumerate}
-
-          \textbf{Soluï¿½ï¿½o}:
-
-          \textbf{(a)}
-
-          $\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $ e a regiï¿½o $D$ cercada por $C$ ï¿½ dada por: $\lbrace(x,y)\,|\,0\leq x \leq 2\,\, , 0 \leq y \leq 4-2x\rbrace$. $C$ ï¿½ percorrido no sentido horï¿½rio, entï¿½o $-C$ fornece a orientaï¿½ï¿½o positiva.
-
-          \begin{align*}
-              \int_C \textbf{F}\cdot d\textbf{r} & = -\int_{-C} (y\cos x - xy\sen x)\,dx + (xy + x\cos x)\,dy \\& = - \iint_{D} \left[\frac{\partial}{\partial x}(xy + x\cos x) - \frac{\partial}{\partial y}(y\cos x - xy\sen x)\right]dA\\& = -\iint_{D} (y - x\sen x + \cos x - \cos x + x\sen x)\,dA = -\int_0^2 \int_0^{4-2x}y\,dy\,dx \\& = -\int_0^2 \left[\frac{1}{2}yï¿½ \right]_{y=0}^{y=4-2x}\,dx = \int_0^2 \frac{1}{2}(4-2x)ï¿½\,dx = -\int_0^2(8-8x+2xï¿½)dx = - \left[8x-4xï¿½+\frac{2}{3}xï¿½ \right]_0^2\\&= -\left(16-16+\frac{16}{3}-0\right)=-\frac{16}{3}
-          \end{align*}
-
-          \textbf{(b)}
-
-          $\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $ e a regiï¿½o $D$ cercada por $C$ ï¿½ dada por: ${ (x,y)\,|\,-\frac{\pi}{2}\leq x \leq \frac{\pi}{2}\,\, , 0 \leq y \leq \cos x }$. $C$ ï¿½ percorrido no sentido horï¿½rio, entï¿½o $-C$ fornece a orientaï¿½ï¿½o positiva.
-
-
-
-          \begin{align*}
-              \int_C \textbf{F}\cdot d\textbf{r} & = -\int_{-C} (e^{-x} + y^2)\,dx + (e^{-y} + x^2)\,dy \\& = - \iint_{D} \left[\frac{\partial}{\partial x}(e^{-y} + x^2) - \frac{\partial}{\partial y}(e^{-x} + y^2)\right]dA\\& = -\int_{-\pi/2}^{\pi/2} \int_0^{\cos x}(2x-2y)\,dy\,dx = -\int_{-\pi/2}^{\pi/2} \left[ 2xy - yï¿½ \right]_{y=0}^{y=\cos x}\,dx\\&= -\int_{-\pi/2}^{\pi/2}(2x \cos x - \cos^2 x)\,dx = -\int_{-\pi/2}^{\pi/2} \left(2x\cos x - \frac{1}{2}(1+ \cos 2x)\right)\,dx \\& = - \left[ 2x \sen x + 2 \cos x - \frac{1}{2}\left(x + \frac{1}{2} \sen 2x \right) \right]_{-\pi/2}^{\pi/2} \,\, [
-                      integrar \,\,\, por\,\,\,partes\,\,\, no\,\,\, primeiro\,\,\, termo]              \\& = - \left(\pi - \frac{1}{4}\pi -\pi - \frac{1}{4}\pi\right)= \frac{1}{2}\pi
-          \end{align*}
-
-          %%% \singlespacing Para um espaï¿½amento simples
-          %%% \onehalfspacing Para um espaï¿½amento de 1,5
-          %%% \doublespacing Para um espaï¿½amento duplo
+%%% \singlespacing Para um espaçamento simples
+%%% \onehalfspacing Para um espaçamento de 1,5
+%%% \doublespacing Para um espaçamento duplo
 
 
 \end{enumerate}
 
-\end{document}
+\end{document}                                                                                         
 
