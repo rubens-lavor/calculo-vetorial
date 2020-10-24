@@ -46,14 +46,10 @@
 \newcommand{\integral}{\displaystyle\int}
 \usepackage{wrapfig}
 \usepackage{setspace}
-\documentclass{scrartcl}
-
 \usepackage[utf8]{inputenc}
-
 \usepackage{mathtools}
-
-
 \onehalfspacing
+%\documentclass{scrartcl}
 
 \begin{document}                                                                                               %%%
 
@@ -77,42 +73,36 @@
 
 \begin{tcolorbox}[colback=black!0]
     \begin{center}
-        {\Large \bf C�lculo Vetorial}
+        {\Large \bf Cálculo Vetorial}
     \end{center}
     \tcblower
     \begin{center}
-        {\large \bf  Exerc�cios Resolvidos}
+        {\large \bf  Exercícios Resolvidos}
     \end{center}
 \end{tcolorbox}
 
 \begin{enumerate}
-    \item[\textbf{1}]- Encontrar o trabalho realizado pelo campo $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}(x\vec{i}+y\vec{j}+z\vec{k})$ ao longo da curva $\gamma(t)=(\cos t,\sin t,t)$
+    \item[\textbf{1}]- Encontrar o trabalho realizado pelo campo $\vec{F}(x,y,z)=\dfrac{k}{x^2+y^2+z^2}(x\vec{i}+y\vec{j}+z\vec{k})$ ao longo da curva $\gamma(t)=(\cos t,\sin t,t)$
 
-          \textbf{Resolu��o:} Procuraremos $f=f(x,y,z)$ tal que:
-
-          %\begin{enumerate}
-          %		\item[1]. $\dfrac{\partial f}{\partial x}%(x,y,z)=\dfrac{k_x}{x\vec{i}+y�+z�}$
-          %		\item[2]. $\dfrac{\partial f}{\partial y}%(x,y,z)=\dfrac{k_y}{x�+y�+z�}$
-          %		\item[3]. $\dfrac{\partial f}{\partial z}%(x,y,z)=\dfrac{k_z}{x�+y�+z�}$
-          %	\end{enumerate}
+          \textbf{Resolução:} Procuraremos $f=f(x,y,z)$ tal que:
 
           \begin{equation}
-              \dfrac{\partial f}{\partial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
+              \dfrac{\partial f}{\partial x}(x,y,z)=\dfrac{k_x}{x^2+y^2+z^2}
           \end{equation}
           \begin{equation}
-              \dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
+              \dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x^2+y^2+z^2}
           \end{equation}
           \begin{equation}
-              \dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
+              \dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x^2+y^2+z^2}
           \end{equation}
 
 
 
-          Integrando (1) em rela��o a $x$ obtemos:
+          Integrando (1) em relação a $x$ obtemos:
 
           \begin{center}
 
-              $f(x,y,z)=\integral \frac{k_x}{x�+y�+z�}\,dx + \phi (y,z) = \frac{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
+              $f(x,y,z)=\integral \frac{k_x}{{x^2+y^2+z^2}\,dx + \phi (y,z) = \frac{k}{2} \ln(x^2+y^2+z^2)+ \phi (y,z),$
 
           \end{center}
 
@@ -120,7 +110,7 @@
 
           \begin{center}
 
-              $\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}+\dfrac{\partial \phi}{\partial y}(y,z) \stackrel{(2)}{=} \dfrac{k_y}{x�+y�+z�} \Longrightarrow \dfrac{\partial \phi}{\partial y}(y,z)= 0 \Longrightarrow \phi (y,z) = \phi(z),$
+              $\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{{x^2+y^2+z^2}+\dfrac{\p{x^2+y^2+z^2} \Longrightarrow \dfrac{\partial \phi}{\partial y}(y,z)= 0 \Longrightarrow \phi (y,z) = \phi(z),$
           \end{center}
 
           isto � $\phi$ n�o depende de $y$. Calculando,
