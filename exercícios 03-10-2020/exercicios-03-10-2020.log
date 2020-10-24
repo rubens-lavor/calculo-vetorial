@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.25)  4 OCT 2020 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.25)  23 OCT 2020 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex"
-(/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex
+**"/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex"
+(/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -674,7 +674,7 @@ Package: wrapfig 2003/01/31  v 3.6
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:49: LaTeX Error: Two \documentclass or \documentstyle commands.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:49: LaTeX Error: Two \documentclass or \documentstyle commands.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -685,7 +685,7 @@ l.49 \documentclass{
 The document may only declare one class.
 
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:52: LaTeX Error: Option clash for package inputenc.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:52: LaTeX Error: Option clash for package inputenc.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -732,7 +732,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen316
 \l_MT_above_shortintertext_sep=\dimen317
 \l_MT_below_shortintertext_sep=\dimen318
-) (/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.aux)
+) (/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.aux)
 \openout1 = `exercicios-03-10-2020.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -841,7 +841,7 @@ Overfull \hbox (14.59842pt too wide) in paragraph at lines 73--74
 
 LaTeX Warning: Command \" invalid in math mode on input line 89.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
@@ -849,40 +849,7 @@ l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
-<to be read again> 
-                   \begingroup 
-l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
-                                                  (x\vec{i}+y\vec{j}+z\vec{k...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \i invalid in math mode on input line 89.
-
-
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 89.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 89.
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
-                                                  (x\vec{i}+y\vec{j}+z\vec{k...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
@@ -907,7 +874,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
 
 LaTeX Warning: Command \" invalid in math mode on input line 89.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
@@ -915,7 +882,7 @@ l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
@@ -937,7 +904,40 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
+
+LaTeX Warning: Command \" invalid in math mode on input line 89.
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Please use \mathaccent for accents in math mode.
+<recently read> \accent 
+                        
+l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
+                                                  (x\vec{i}+y\vec{j}+z\vec{k...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.89 ... $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}
+                                                  (x\vec{i}+y\vec{j}+z\vec{k...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 89.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 89.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 89.
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
 <inserted text> 
                 }
 l.89 ...��+y�+z�}(x\vec{i}+y\vec{j}+z\vec{k})$
@@ -948,7 +948,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
 <inserted text> 
                 }
 l.89 ...��+y�+z�}(x\vec{i}+y\vec{j}+z\vec{k})$
@@ -959,7 +959,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:89: Missing } inserted.
 <inserted text> 
                 }
 l.89 ...��+y�+z�}(x\vec{i}+y\vec{j}+z\vec{k})$
@@ -976,7 +976,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 100.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -984,7 +984,7 @@ l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -1009,7 +1009,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 100.
 
 LaTeX Warning: Command \" invalid in math mode on input line 100.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -1017,7 +1017,7 @@ l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -1042,7 +1042,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 100.
 
 LaTeX Warning: Command \" invalid in math mode on input line 100.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -1050,7 +1050,7 @@ l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:100: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.100 ...ial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
@@ -1072,7 +1072,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 100.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 100.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: You can't use `\eqno' in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
 l.101           \end{equation}
@@ -1082,7 +1082,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
 <inserted text> 
                 }
 l.101           \end{equation}
@@ -1093,7 +1093,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
 <inserted text> 
                 }
 l.101           \end{equation}
@@ -1104,7 +1104,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:101: Missing } inserted.
 <inserted text> 
                 }
 l.101           \end{equation}
@@ -1121,7 +1121,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 103.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1129,7 +1129,7 @@ l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1154,7 +1154,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 103.
 
 LaTeX Warning: Command \" invalid in math mode on input line 103.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1162,7 +1162,7 @@ l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1187,7 +1187,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 103.
 
 LaTeX Warning: Command \" invalid in math mode on input line 103.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1195,7 +1195,7 @@ l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:103: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.103 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1217,7 +1217,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 103.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 103.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: You can't use `\eqno' in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
 l.104           \end{equation}
@@ -1227,7 +1227,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
 <inserted text> 
                 }
 l.104           \end{equation}
@@ -1238,7 +1238,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
 <inserted text> 
                 }
 l.104           \end{equation}
@@ -1249,7 +1249,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:104: Missing } inserted.
 <inserted text> 
                 }
 l.104           \end{equation}
@@ -1266,7 +1266,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 106.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1274,7 +1274,7 @@ l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1299,7 +1299,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 106.
 
 LaTeX Warning: Command \" invalid in math mode on input line 106.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1307,7 +1307,7 @@ l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1332,7 +1332,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 106.
 
 LaTeX Warning: Command \" invalid in math mode on input line 106.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1340,7 +1340,7 @@ l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:106: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.106 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1362,7 +1362,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 106.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 106.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: You can't use `\eqno' in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
 l.107           \end{equation}
@@ -1372,7 +1372,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
 <inserted text> 
                 }
 l.107           \end{equation}
@@ -1383,7 +1383,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
 <inserted text> 
                 }
 l.107           \end{equation}
@@ -1394,7 +1394,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:107: Missing } inserted.
 <inserted text> 
                 }
 l.107           \end{equation}
@@ -1411,7 +1411,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1419,7 +1419,7 @@ l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1444,7 +1444,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1452,7 +1452,7 @@ l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1477,7 +1477,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1485,7 +1485,7 @@ l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...y,z)=\integral \frac{k_x}{x�+y�+z�}
@@ -1510,7 +1510,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...��}\,dx + \phi (y,z) = \frac{k}{2} \ln(x�
@@ -1518,7 +1518,7 @@ l.115 ...��}\,dx + \phi (y,z) = \frac{k}{2} \ln(x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...��}\,dx + \phi (y,z) = \frac{k}{2} \ln(x�
@@ -1543,7 +1543,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...dx + \phi (y,z) = \frac{k}{2} \ln(x�+y�
@@ -1551,7 +1551,7 @@ l.115 ...dx + \phi (y,z) = \frac{k}{2} \ln(x�+y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...dx + \phi (y,z) = \frac{k}{2} \ln(x�+y�
@@ -1576,7 +1576,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \" invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.115 ...\phi (y,z) = \frac{k}{2} \ln(x�+y�+z�
@@ -1584,7 +1584,7 @@ l.115 ...\phi (y,z) = \frac{k}{2} \ln(x�+y�+z�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.115 ...\phi (y,z) = \frac{k}{2} \ln(x�+y�+z�
@@ -1606,7 +1606,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 115.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1617,7 +1617,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1628,7 +1628,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1639,7 +1639,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1650,7 +1650,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1661,7 +1661,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:115: Missing } inserted.
 <inserted text> 
                 }
 l.115 ...c{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
@@ -1681,7 +1681,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1689,40 +1689,7 @@ l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
-<to be read again> 
-                   \begingroup 
-l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
-                                                  +\dfrac{\partial \phi}{\pa...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \i invalid in math mode on input line 123.
-
-
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 123.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 123.
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
-                                                  +\dfrac{\partial \phi}{\pa...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1747,7 +1714,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
 LaTeX Warning: Command \" invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1755,7 +1722,7 @@ l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
@@ -1780,7 +1747,40 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
 LaTeX Warning: Command \" invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+<recently read> \accent 
+                        
+l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
+                                                  +\dfrac{\partial \phi}{\pa...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.123 ...ial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
+                                                  +\dfrac{\partial \phi}{\pa...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 123.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 123.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 123.
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1788,7 +1788,7 @@ l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1813,7 +1813,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
 LaTeX Warning: Command \" invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1821,7 +1821,7 @@ l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1846,7 +1846,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
 LaTeX Warning: Command \" invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1854,7 +1854,7 @@ l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.123 ...ckrel{(2)}{=} \dfrac{k_y}{x�+y�+z�}
@@ -1876,7 +1876,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 123.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1887,7 +1887,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1898,7 +1898,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1909,7 +1909,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1920,7 +1920,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1931,7 +1931,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:123: Missing } inserted.
 <inserted text> 
                 }
 l.123 ... 0 \Longrightarrow \phi (y,z) = \phi(z),$
@@ -1951,7 +1951,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1959,7 +1959,7 @@ l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1984,7 +1984,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
 LaTeX Warning: Command \" invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -1992,40 +1992,7 @@ l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
-<to be read again> 
-                   \begingroup 
-l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
-                                                  +\dfrac{\partial \phi}{\pa...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \i invalid in math mode on input line 130.
-
-
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 130.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
-
-
-LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 130.
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
-                                                  +\dfrac{\partial \phi}{\pa...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
@@ -2050,7 +2017,40 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
 LaTeX Warning: Command \" invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+<recently read> \accent 
+                        
+l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
+                                                  +\dfrac{\partial \phi}{\pa...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.130 ...ial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
+                                                  +\dfrac{\partial \phi}{\pa...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 130.
+
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2058,7 +2058,7 @@ l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2083,7 +2083,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
 LaTeX Warning: Command \" invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2091,7 +2091,7 @@ l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2116,7 +2116,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
 LaTeX Warning: Command \" invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2124,7 +2124,7 @@ l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.130 ...ckrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}
@@ -2146,7 +2146,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 130.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2157,7 +2157,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2168,7 +2168,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2179,7 +2179,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2190,7 +2190,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2201,7 +2201,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ...l z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
@@ -2221,7 +2221,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 137.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.137 ... = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(x�
@@ -2229,7 +2229,7 @@ l.137 ... = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.137 ... = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(x�
@@ -2254,7 +2254,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 137.
 
 LaTeX Warning: Command \" invalid in math mode on input line 137.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.137 ... temos $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�
@@ -2262,7 +2262,7 @@ l.137 ... temos $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.137 ... temos $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�
@@ -2287,7 +2287,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 137.
 
 LaTeX Warning: Command \" invalid in math mode on input line 137.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.137 ...s $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�+z�
@@ -2295,7 +2295,7 @@ l.137 ...s $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�+z�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.137 ...s $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�+z�
@@ -2317,7 +2317,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 137.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 137.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
 <inserted text> 
                 }
 l.137 ...ac{k}{2} \ln(x�+y�+z�)+ \phi (y,z)$
@@ -2328,7 +2328,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
 <inserted text> 
                 }
 l.137 ...ac{k}{2} \ln(x�+y�+z�)+ \phi (y,z)$
@@ -2339,7 +2339,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:137: Missing } inserted.
 <inserted text> 
                 }
 l.137 ...ac{k}{2} \ln(x�+y�+z�)+ \phi (y,z)$
@@ -2356,7 +2356,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 140.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.140 ...,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi�
@@ -2364,7 +2364,7 @@ l.140 ...,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.140 ...,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi�
@@ -2386,7 +2386,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 140.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 140.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:140: Missing } inserted.
 <inserted text> 
                 }
 l.140 ...\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi�)$
@@ -2401,7 +2401,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 144.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.144 ...f{2}]- Mostre que a integral $\int_c (2y�
@@ -2409,7 +2409,7 @@ l.144 ...f{2}]- Mostre que a integral $\int_c (2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.144 ...f{2}]- Mostre que a integral $\int_c (2y�
@@ -2434,7 +2434,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 144.
 
 LaTeX Warning: Command \" invalid in math mode on input line 144.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.144 ...Mostre que a integral $\int_c (2y�-12x�
@@ -2442,7 +2442,7 @@ l.144 ...Mostre que a integral $\int_c (2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.144 ...Mostre que a integral $\int_c (2y�-12x�
@@ -2467,7 +2467,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 144.
 
 LaTeX Warning: Command \" invalid in math mode on input line 144.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.144 ...re que a integral $\int_c (2y�-12x�y�
@@ -2475,7 +2475,7 @@ l.144 ...re que a integral $\int_c (2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.144 ...re que a integral $\int_c (2y�-12x�y�
@@ -2500,7 +2500,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 144.
 
 LaTeX Warning: Command \" invalid in math mode on input line 144.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.144 ...int_c (2y�-12x�y�)\,dx +(4xy-9x^4y�
@@ -2508,7 +2508,7 @@ l.144 ...int_c (2y�-12x�y�)\,dx +(4xy-9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.144 ...int_c (2y�-12x�y�)\,dx +(4xy-9x^4y�
@@ -2530,7 +2530,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 144.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 144.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
 <inserted text> 
                 }
 l.144 ...(2y�-12x�y�)\,dx +(4xy-9x^4y�)dy$
@@ -2541,7 +2541,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
 <inserted text> 
                 }
 l.144 ...(2y�-12x�y�)\,dx +(4xy-9x^4y�)dy$
@@ -2552,7 +2552,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
 <inserted text> 
                 }
 l.144 ...(2y�-12x�y�)\,dx +(4xy-9x^4y�)dy$
@@ -2563,7 +2563,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:144: Missing } inserted.
 <inserted text> 
                 }
 l.144 ...(2y�-12x�y�)\,dx +(4xy-9x^4y�)dy$
@@ -2580,11 +2580,11 @@ Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/UFSC.pdf>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/UFSC.pdf>]
 
 LaTeX Warning: Command \" invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.152 ...      Nesse caso, $\overline{f}(x,y)=(2y�
@@ -2592,7 +2592,7 @@ l.152 ...      Nesse caso, $\overline{f}(x,y)=(2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.152 ...      Nesse caso, $\overline{f}(x,y)=(2y�
@@ -2617,7 +2617,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
 LaTeX Warning: Command \" invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.152 ...esse caso, $\overline{f}(x,y)=(2y�-12x�
@@ -2625,7 +2625,7 @@ l.152 ...esse caso, $\overline{f}(x,y)=(2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.152 ...esse caso, $\overline{f}(x,y)=(2y�-12x�
@@ -2650,7 +2650,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
 LaTeX Warning: Command \" invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.152 ... caso, $\overline{f}(x,y)=(2y�-12x�y�
@@ -2658,7 +2658,7 @@ l.152 ... caso, $\overline{f}(x,y)=(2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.152 ... caso, $\overline{f}(x,y)=(2y�-12x�y�
@@ -2683,7 +2683,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
 LaTeX Warning: Command \" invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.152 ...,y)=(2y�-12x�y�)\vec{i}+(4xy-9x^4y�
@@ -2691,7 +2691,7 @@ l.152 ...,y)=(2y�-12x�y�)\vec{i}+(4xy-9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.152 ...,y)=(2y�-12x�y�)\vec{i}+(4xy-9x^4y�
@@ -2713,7 +2713,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
 <inserted text> 
                 }
 l.152 ...12x�y�)\vec{i}+(4xy-9x^4y�)\vec{j}$
@@ -2724,7 +2724,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
 <inserted text> 
                 }
 l.152 ...12x�y�)\vec{i}+(4xy-9x^4y�)\vec{j}$
@@ -2735,7 +2735,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
 <inserted text> 
                 }
 l.152 ...12x�y�)\vec{i}+(4xy-9x^4y�)\vec{j}$
@@ -2746,7 +2746,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
 <inserted text> 
                 }
 l.152 ...12x�y�)\vec{i}+(4xy-9x^4y�)\vec{j}$
@@ -2764,7 +2764,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.152 ...�)\vec{j}$ , $D(\overline{f})=\mathbb{R}�
@@ -2772,7 +2772,7 @@ l.152 ...�)\vec{j}$ , $D(\overline{f})=\mathbb{R}�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.152 ...�)\vec{j}$ , $D(\overline{f})=\mathbb{R}�
@@ -2794,7 +2794,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 152.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:152: Missing } inserted.
 <inserted text> 
                 }
 l.152 ...vec{j}$ , $D(\overline{f})=\mathbb{R}�$
@@ -2809,7 +2809,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.156 ...rac{\partial f_1}{\partial y} = 4y - 36x�
@@ -2817,7 +2817,7 @@ l.156 ...rac{\partial f_1}{\partial y} = 4y - 36x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.156 ...rac{\partial f_1}{\partial y} = 4y - 36x�
@@ -2842,7 +2842,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
 LaTeX Warning: Command \" invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.156 ...\partial f_1}{\partial y} = 4y - 36x�y�
@@ -2850,7 +2850,7 @@ l.156 ...\partial f_1}{\partial y} = 4y - 36x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.156 ...\partial f_1}{\partial y} = 4y - 36x�y�
@@ -2872,7 +2872,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
 <inserted text> 
                 }
 l.156 ...tial f_1}{\partial y} = 4y - 36x�y� $
@@ -2883,7 +2883,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
 <inserted text> 
                 }
 l.156 ...tial f_1}{\partial y} = 4y - 36x�y� $
@@ -2899,7 +2899,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.156 ...rac{\partial f_2}{\partial x} = 4y - 36x�
@@ -2907,7 +2907,7 @@ l.156 ...rac{\partial f_2}{\partial x} = 4y - 36x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.156 ...rac{\partial f_2}{\partial x} = 4y - 36x�
@@ -2932,7 +2932,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
 LaTeX Warning: Command \" invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.156 ...\partial f_2}{\partial x} = 4y - 36x�y�
@@ -2940,7 +2940,7 @@ l.156 ...\partial f_2}{\partial x} = 4y - 36x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.156 ...\partial f_2}{\partial x} = 4y - 36x�y�
@@ -2962,7 +2962,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 156.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
 <inserted text> 
                 }
 l.156 ...tial f_2}{\partial x} = 4y - 36x�y� $
@@ -2973,7 +2973,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:156: Missing } inserted.
 <inserted text> 
                 }
 l.156 ...tial f_2}{\partial x} = 4y - 36x�y� $
@@ -2989,7 +2989,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.163 ... Portanto, pelo Teorema 5.3, $\int_c (2y�
@@ -2997,7 +2997,7 @@ l.163 ... Portanto, pelo Teorema 5.3, $\int_c (2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.163 ... Portanto, pelo Teorema 5.3, $\int_c (2y�
@@ -3022,7 +3022,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
 LaTeX Warning: Command \" invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.163 ...to, pelo Teorema 5.3, $\int_c (2y�-12x�
@@ -3030,7 +3030,7 @@ l.163 ...to, pelo Teorema 5.3, $\int_c (2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.163 ...to, pelo Teorema 5.3, $\int_c (2y�-12x�
@@ -3055,7 +3055,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
 LaTeX Warning: Command \" invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.163 ...pelo Teorema 5.3, $\int_c (2y�-12x�y�
@@ -3063,7 +3063,7 @@ l.163 ...pelo Teorema 5.3, $\int_c (2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.163 ...pelo Teorema 5.3, $\int_c (2y�-12x�y�
@@ -3088,7 +3088,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
 LaTeX Warning: Command \" invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.163 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
@@ -3096,7 +3096,7 @@ l.163 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.163 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
@@ -3118,7 +3118,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
 <inserted text> 
                 }
 l.163 ...�-12x�y�)\,dx + (4xy - 9x^4y� \,dy$
@@ -3129,7 +3129,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
 <inserted text> 
                 }
 l.163 ...�-12x�y�)\,dx + (4xy - 9x^4y� \,dy$
@@ -3140,7 +3140,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
 <inserted text> 
                 }
 l.163 ...�-12x�y�)\,dx + (4xy - 9x^4y� \,dy$
@@ -3151,7 +3151,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
 <inserted text> 
                 }
 l.163 ...�-12x�y�)\,dx + (4xy - 9x^4y� \,dy$
@@ -3169,7 +3169,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.163 ...� independente do caminho em $\mathbb{R}�
@@ -3177,7 +3177,7 @@ l.163 ...� independente do caminho em $\mathbb{R}�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.163 ...� independente do caminho em $\mathbb{R}�
@@ -3199,7 +3199,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 163.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:163: Missing } inserted.
 <inserted text> 
                 }
 l.163 ...ndependente do caminho em $\mathbb{R}�$
@@ -3214,7 +3214,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.168 ...w \dfrac{\partial \phi}{\partial x} = 2y�
@@ -3222,7 +3222,7 @@ l.168 ...w \dfrac{\partial \phi}{\partial x} = 2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.168 ...w \dfrac{\partial \phi}{\partial x} = 2y�
@@ -3247,7 +3247,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
 LaTeX Warning: Command \" invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.168 ...c{\partial \phi}{\partial x} = 2y�-12x�
@@ -3255,7 +3255,7 @@ l.168 ...c{\partial \phi}{\partial x} = 2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.168 ...c{\partial \phi}{\partial x} = 2y�-12x�
@@ -3280,7 +3280,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
 LaTeX Warning: Command \" invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.168 ...artial \phi}{\partial x} = 2y�-12x�y�
@@ -3288,7 +3288,7 @@ l.168 ...artial \phi}{\partial x} = 2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.168 ...artial \phi}{\partial x} = 2y�-12x�y�
@@ -3310,7 +3310,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
 <inserted text> 
                 }
 l.168 ...ial \phi}{\partial x} = 2y�-12x�y�$
@@ -3321,7 +3321,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
 <inserted text> 
                 }
 l.168 ...ial \phi}{\partial x} = 2y�-12x�y�$
@@ -3332,7 +3332,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
 <inserted text> 
                 }
 l.168 ...ial \phi}{\partial x} = 2y�-12x�y�$
@@ -3349,7 +3349,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.168 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
@@ -3357,7 +3357,7 @@ l.168 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.168 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
@@ -3379,7 +3379,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 168.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:168: Missing } inserted.
 <inserted text> 
                 }
 l.168 ...rtial \phi}{\partial y} = 4xy - 9x^4y�$
@@ -3394,7 +3394,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ... $\dfrac{\partial \phi}{\partial x} = 2y�
@@ -3402,7 +3402,7 @@ l.171 ... $\dfrac{\partial \phi}{\partial x} = 2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ... $\dfrac{\partial \phi}{\partial x} = 2y�
@@ -3427,7 +3427,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ...\partial \phi}{\partial x} = 2y� - 12x�
@@ -3435,7 +3435,7 @@ l.171 ...\partial \phi}{\partial x} = 2y� - 12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ...\partial \phi}{\partial x} = 2y� - 12x�
@@ -3460,7 +3460,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ...tial \phi}{\partial x} = 2y� - 12x�y�
@@ -3468,7 +3468,7 @@ l.171 ...tial \phi}{\partial x} = 2y� - 12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ...tial \phi}{\partial x} = 2y� - 12x�y�
@@ -3493,7 +3493,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ...�y� \Rightarrow \phi(x,y) = \int (2y�
@@ -3501,7 +3501,7 @@ l.171 ...�y� \Rightarrow \phi(x,y) = \int (2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ...�y� \Rightarrow \phi(x,y) = \int (2y�
@@ -3526,7 +3526,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ... \Rightarrow \phi(x,y) = \int (2y�-12x�
@@ -3534,7 +3534,7 @@ l.171 ... \Rightarrow \phi(x,y) = \int (2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ... \Rightarrow \phi(x,y) = \int (2y�-12x�
@@ -3559,7 +3559,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 171.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.171 ...ghtarrow \phi(x,y) = \int (2y�-12x�y�
@@ -3567,7 +3567,7 @@ l.171 ...ghtarrow \phi(x,y) = \int (2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:171: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.171 ...ghtarrow \phi(x,y) = \int (2y�-12x�y�
@@ -3592,7 +3592,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 171.
 
 LaTeX Warning: Command \" invalid in math mode on input line 172.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.172               = 2y�
@@ -3600,7 +3600,7 @@ l.172               = 2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.172               = 2y�
@@ -3625,7 +3625,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 172.
 
 LaTeX Warning: Command \" invalid in math mode on input line 172.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.172               = 2y�x - 3x^4y�
@@ -3633,7 +3633,7 @@ l.172               = 2y�x - 3x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.172               = 2y�x - 3x^4y�
@@ -3655,7 +3655,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 172.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 172.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3666,7 +3666,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3677,7 +3677,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3688,7 +3688,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3699,7 +3699,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3710,7 +3710,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3721,7 +3721,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3732,7 +3732,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:172: Missing } inserted.
 <inserted text> 
                 }
 l.172               = 2y�x - 3x^4y� + c(y)$
@@ -3754,7 +3754,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 174.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.174 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
@@ -3762,7 +3762,7 @@ l.174 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.174 ...\partial \phi}{\partial y} = 4xy - 9x^4y�
@@ -3787,7 +3787,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 174.
 
 LaTeX Warning: Command \" invalid in math mode on input line 174.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.174 ...} = 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�
@@ -3795,7 +3795,7 @@ l.174 ...} = 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.174 ...} = 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�
@@ -3817,7 +3817,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 174.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 174.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing } inserted.
 <inserted text> 
                 }
 l.174 ... 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�$
@@ -3828,7 +3828,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:174: Missing } inserted.
 <inserted text> 
                 }
 l.174 ... 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�$
@@ -3844,7 +3844,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 176.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.176 ...y)=k$ (constante). Assim: $\phi(x,y)=(2y�
@@ -3852,7 +3852,7 @@ l.176 ...y)=k$ (constante). Assim: $\phi(x,y)=(2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.176 ...y)=k$ (constante). Assim: $\phi(x,y)=(2y�
@@ -3874,7 +3874,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 176.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 176.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:176: Missing } inserted.
 <inserted text> 
                 }
 l.176 ... Assim: $\phi(x,y)=(2y�x-3x^4y^3) + k $
@@ -3889,7 +3889,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 178.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.178           $\int_c (2y�
@@ -3897,7 +3897,7 @@ l.178           $\int_c (2y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.178           $\int_c (2y�
@@ -3922,7 +3922,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 178.
 
 LaTeX Warning: Command \" invalid in math mode on input line 178.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.178           $\int_c (2y�-12x�
@@ -3930,7 +3930,7 @@ l.178           $\int_c (2y�-12x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.178           $\int_c (2y�-12x�
@@ -3955,7 +3955,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 178.
 
 LaTeX Warning: Command \" invalid in math mode on input line 178.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.178           $\int_c (2y�-12x�y�
@@ -3963,7 +3963,7 @@ l.178           $\int_c (2y�-12x�y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.178           $\int_c (2y�-12x�y�
@@ -3988,7 +3988,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 178.
 
 LaTeX Warning: Command \" invalid in math mode on input line 178.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.178 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
@@ -3996,7 +3996,7 @@ l.178 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.178 ..._c (2y�-12x�y�)\,dx + (4xy - 9x^4y�
@@ -4018,7 +4018,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 178.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 178.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
 <inserted text> 
                 }
 l.178 ... \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$
@@ -4029,7 +4029,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
 <inserted text> 
                 }
 l.178 ... \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$
@@ -4040,7 +4040,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
 <inserted text> 
                 }
 l.178 ... \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$
@@ -4051,7 +4051,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:178: Missing } inserted.
 <inserted text> 
                 }
 l.178 ... \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$
@@ -4069,7 +4069,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 190.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.190               $\gamma_2$ : $x=t$, $y=t�
@@ -4077,7 +4077,7 @@ l.190               $\gamma_2$ : $x=t$, $y=t�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.190               $\gamma_2$ : $x=t$, $y=t�
@@ -4099,7 +4099,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 190.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 190.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:190: Missing } inserted.
 <inserted text> 
                 }
 l.190               $\gamma_2$ : $x=t$, $y=t�$
@@ -4115,7 +4115,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 199.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.199 ...fazemos as substitui��es $x=t$, $y=t�
@@ -4123,7 +4123,7 @@ l.199 ...fazemos as substitui��es $x=t$, $y=t�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.199 ...fazemos as substitui��es $x=t$, $y=t�
@@ -4145,7 +4145,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 199.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 199.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:199: Missing } inserted.
 <inserted text> 
                 }
 l.199 ...emos as substitui��es $x=t$, $y=t�$
@@ -4160,7 +4160,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 200.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.200 ...\int_{\gamma_2} ydx + 2xdy = \int_1^2 [t�
@@ -4168,7 +4168,7 @@ l.200 ...\int_{\gamma_2} ydx + 2xdy = \int_1^2 [t�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.200 ...\int_{\gamma_2} ydx + 2xdy = \int_1^2 [t�
@@ -4193,7 +4193,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 200.
 
 LaTeX Warning: Command \" invalid in math mode on input line 200.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.200 ...= \int_1^2 [t�+(2t)2t]dt = \int_1^2 5t�
@@ -4201,7 +4201,7 @@ l.200 ...= \int_1^2 [t�+(2t)2t]dt = \int_1^2 5t�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.200 ...= \int_1^2 [t�+(2t)2t]dt = \int_1^2 5t�
@@ -4223,7 +4223,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 200.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 200.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing } inserted.
 <inserted text> 
                 }
 l.200 ...t]dt = \int_1^2 5t�dt = \dfrac{35}{3}.$
@@ -4234,7 +4234,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:200: Missing } inserted.
 <inserted text> 
                 }
 l.200 ...t]dt = \int_1^2 5t�dt = \dfrac{35}{3}.$
@@ -4250,7 +4250,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 211.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.211               \item $\int_c \cos ydx + x�
@@ -4258,7 +4258,7 @@ l.211               \item $\int_c \cos ydx + x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.211               \item $\int_c \cos ydx + x�
@@ -4280,7 +4280,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 211.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 211.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:211: Missing } inserted.
 <inserted text> 
                 }
 l.211 ... \item $\int_c \cos ydx + x� \sin y dy$
@@ -4295,7 +4295,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.212 ...nt_c (y+ e^{\sqrt{x}}) dx + (2x + \cos y�
@@ -4303,7 +4303,7 @@ l.212 ...nt_c (y+ e^{\sqrt{x}}) dx + (2x + \cos y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.212 ...nt_c (y+ e^{\sqrt{x}}) dx + (2x + \cos y�
@@ -4325,7 +4325,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
 <inserted text> 
                 }
 l.212 ...y+ e^{\sqrt{x}}) dx + (2x + \cos y�)dy$
@@ -4340,7 +4340,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.212 ...egi�o englobada pelas par�bolas $y=x�
@@ -4348,7 +4348,7 @@ l.212 ...egi�o englobada pelas par�bolas $y=x�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.212 ...egi�o englobada pelas par�bolas $y=x�
@@ -4370,7 +4370,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
 <inserted text> 
                 }
 l.212 ...�o englobada pelas par�bolas $y=x�$
@@ -4385,7 +4385,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.212 ...lobada pelas par�bolas $y=x�$ e $x=y�
@@ -4393,7 +4393,7 @@ l.212 ...lobada pelas par�bolas $y=x�$ e $x=y�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.212 ...lobada pelas par�bolas $y=x�$ e $x=y�
@@ -4415,7 +4415,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 212.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:212: Missing } inserted.
 <inserted text> 
                 }
 l.212 ...ada pelas par�bolas $y=x�$ e $x=y�$
@@ -4430,7 +4430,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4438,7 +4438,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4460,7 +4460,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4473,7 +4473,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4481,7 +4481,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4503,7 +4503,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4518,7 +4518,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4526,7 +4526,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4548,7 +4548,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4563,7 +4563,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4571,7 +4571,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4593,7 +4593,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4606,7 +4606,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4614,7 +4614,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4636,7 +4636,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4651,7 +4651,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.223           \end{align*}
@@ -4659,7 +4659,7 @@ l.223           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.223           \end{align*}
@@ -4681,7 +4681,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 223.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:223: Missing } inserted.
 <inserted text> 
                 }
 l.223           \end{align*}
@@ -4696,7 +4696,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4704,7 +4704,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4726,7 +4726,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4739,7 +4739,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4747,7 +4747,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4769,7 +4769,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4784,7 +4784,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4792,7 +4792,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4817,7 +4817,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4825,7 +4825,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4847,7 +4847,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4856,7 +4856,7 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4870,7 +4870,7 @@ Missing character: There is no � in font cmr8!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4878,7 +4878,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4900,7 +4900,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4913,7 +4913,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4921,7 +4921,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4943,7 +4943,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -4958,7 +4958,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4966,7 +4966,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -4991,7 +4991,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \" invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.227           \end{align*}
@@ -4999,7 +4999,7 @@ l.227           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.227           \end{align*}
@@ -5021,7 +5021,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 227.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -5030,7 +5030,7 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:227: Missing } inserted.
 <inserted text> 
                 }
 l.227           \end{align*}
@@ -5045,7 +5045,7 @@ Missing character: There is no � in font cmr8!
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5053,7 +5053,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5075,7 +5075,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5089,7 +5089,7 @@ my insertion and my current dilemma will both disappear.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5097,7 +5097,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5122,7 +5122,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5130,7 +5130,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5155,7 +5155,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5163,7 +5163,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5188,7 +5188,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5196,7 +5196,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5218,7 +5218,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5229,7 +5229,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5240,7 +5240,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5249,7 +5249,7 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5266,7 +5266,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5274,7 +5274,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5296,7 +5296,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5310,7 +5310,7 @@ my insertion and my current dilemma will both disappear.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5318,7 +5318,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5343,7 +5343,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5351,7 +5351,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5376,7 +5376,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5384,7 +5384,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5409,7 +5409,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \" invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.245           \end{align*}
@@ -5417,7 +5417,7 @@ l.245           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.245           \end{align*}
@@ -5439,7 +5439,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 245.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5450,7 +5450,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5461,7 +5461,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5470,7 +5470,7 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:245: Missing } inserted.
 <inserted text> 
                 }
 l.245           \end{align*}
@@ -5497,7 +5497,7 @@ Overfull \hbox (29.10423pt too wide) in paragraph at lines 249--250
 
 LaTeX Warning: Command \" invalid in math mode on input line 256.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.256           \end{align*}
@@ -5505,7 +5505,7 @@ l.256           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.256           \end{align*}
@@ -5527,7 +5527,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 256.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 256.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing } inserted.
 <inserted text> 
                 }
 l.256           \end{align*}
@@ -5542,7 +5542,7 @@ Missing character: There is no � in font cmr12!
 
 LaTeX Warning: Command \" invalid in math mode on input line 256.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Please use \mathaccent for accents in math mode.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Please use \mathaccent for accents in math mode.
 <recently read> \accent 
                         
 l.256           \end{align*}
@@ -5550,7 +5550,7 @@ l.256           \end{align*}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing { inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing { inserted.
 <to be read again> 
                    \begingroup 
 l.256           \end{align*}
@@ -5572,7 +5572,7 @@ LaTeX Warning: Command \textonehalf invalid in math mode on input line 256.
 
 LaTeX Warning: Command \textonehalf invalid in math mode on input line 256.
 
-/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing } inserted.
+/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.tex:256: Missing } inserted.
 <inserted text> 
                 }
 l.256           \end{align*}
@@ -5589,17 +5589,17 @@ Overfull \hbox (12.4683pt too wide) detected at line 256
 []
  []
 
-[4] (/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.aux) ) 
+[4] (/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.aux) ) 
 Here is how much of TeX's memory you used:
- 30917 strings out of 481239
- 758455 string characters out of 5920377
+ 30918 strings out of 481239
+ 758670 string characters out of 5920377
  1138008 words of memory out of 5000000
- 45642 multiletter control sequences out of 15000+600000
+ 45643 multiletter control sequences out of 15000+600000
  541293 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,13n,98p,925b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,13n,98p,948b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/home/rubens/estágio cientec/vetorial romulo/exercícios 03-10-2020/exercicios-03-10-2020.pdf" (4 pages, 213860 bytes).
+Output written on "/home/rubens/estágio cientec/vetorial romulo/exercícios versinados/exercícios 03-10-2020/exercicios-03-10-2020.pdf" (4 pages, 213986 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
