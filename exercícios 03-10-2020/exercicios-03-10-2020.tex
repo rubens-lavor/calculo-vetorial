@@ -1,0 +1,266 @@
+\documentclass[12pt]{article}                                                   
+\usepackage{amsthm}                                                         %%%
+\usepackage{amssymb}                                                        %%%
+\usepackage{amsfonts}                                                       %%%
+\usepackage{amsmath}                                                        %%%
+\usepackage{amscd}                                                          %%%
+\usepackage{mathrsfs}                                                       %%%
+\usepackage{latexsym}                                                       %%%
+\usepackage[brazil]{babel}                                                  %%%
+\usepackage[latin1]{inputenc}                                               %%%
+\usepackage{graphicx}                                                       %%%
+\usepackage{enumerate}                                                      %%%
+\usepackage{array}                                                          %%%
+\usepackage{float}                                                          %%%
+\usepackage{anysize}                                                        %%%
+\usepackage{ifthen}                                                         %%%
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.8cm]{geometry}  
+\usepackage{pgfplots}
+\usepackage{multicol}
+\usepackage{tasks}
+\usepackage{venndiagram}
+\usepackage[listings,skins,breakable]{tcolorbox}
+\usepackage{tikz}       
+\newcommand{\newfd}[5]{\begin{eqnarray*}{#1}:{#2} &\longrightarrow &{#3} \\{#4} &\longmapsto &{#5}\end{eqnarray*}}
+\DeclareMathOperator{\sen}{sen}
+\DeclareMathOperator{\senh}{senh}
+\DeclareMathOperator{\infi}{\acute{\i}nf}
+\DeclareMathOperator{\Rea}{Re}
+\DeclareMathOperator{\Ima}{Im}
+\DeclareMathOperator{\tg}{tg}
+\DeclareMathOperator{\arctg}{arctg}
+\DeclareMathOperator{\arcsen}{arcsen}
+\DeclareMathOperator{\arccosh}{arccosh}
+\DeclareMathOperator{\Id}{Id}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\cotg}{cotg}
+\DeclareMathOperator{\cossec}{cossec}
+\DeclareMathOperator{\mmc}{mmc}
+\DeclareMathOperator{\mdc}{mdc}
+\newcommand{\nn}{\mathbb{N}}
+\newcommand{\dis}{\displaystyle}
+\newcommand{\zz}{\mathbb{Z}}
+\newcommand{\qq}{\mathbb{Q}}
+\newcommand{\rr}{\mathbb{R}}
+\newcommand{\cc}{\mathbb{C}}
+\newcommand{\integral}{\displaystyle\int}
+\usepackage{wrapfig}
+\usepackage{setspace}
+\documentclass{scrartcl}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{mathtools}
+
+
+\onehalfspacing
+
+\begin{document}                                                                                               %%%
+
+\begin{tcolorbox}[colback=black!0]                                                               %%%      
+    \noindent\begin{minipage}{0.14\linewidth}
+        %	\vspace*{-0.8cm}\hspace*{0.5cm}\includegraphics[height = 2.5cm]{UFSC}
+        \hspace*{-0.2cm}\includegraphics[height = 2.5cm]{UFSC}
+    \end{minipage}
+    \noindent\begin{minipage}{0.69\linewidth}
+        \begin{center}
+            \vspace*{0.2cm}
+            {\bf \Large Universidade Federal de Santa Catarina} \\ \vspace{0.3cm}
+            {\bf \Large Centro Tecnol�gico de Joinville} \\ \vspace{0.3cm}
+        \end{center}
+    \end{minipage}
+    \noindent\begin{minipage}{0.14\linewidth}
+        \hspace*{1.2cm}\includegraphics[height = 2.5cm]{UFSC}
+    \end{minipage}
+\end{tcolorbox}
+
+
+\begin{tcolorbox}[colback=black!0]
+    \begin{center}
+        {\Large \bf C�lculo Vetorial}
+    \end{center}
+    \tcblower
+    \begin{center}
+        {\large \bf  Exerc�cios Resolvidos}
+    \end{center}
+\end{tcolorbox}
+
+\begin{enumerate}
+    \item[\textbf{1}]- Encontrar o trabalho realizado pelo campo $\vec{F}(x,y,z)=\dfrac{k}{x�+y�+z�}(x\vec{i}+y\vec{j}+z\vec{k})$ ao longo da curva $\gamma(t)=(\cos t,\sin t,t)$
+
+          \textbf{Resolu��o:} Procuraremos $f=f(x,y,z)$ tal que:
+
+          %\begin{enumerate}
+          %		\item[1]. $\dfrac{\partial f}{\partial x}%(x,y,z)=\dfrac{k_x}{x\vec{i}+y�+z�}$
+          %		\item[2]. $\dfrac{\partial f}{\partial y}%(x,y,z)=\dfrac{k_y}{x�+y�+z�}$
+          %		\item[3]. $\dfrac{\partial f}{\partial z}%(x,y,z)=\dfrac{k_z}{x�+y�+z�}$
+          %	\end{enumerate}
+
+          \begin{equation}
+              \dfrac{\partial f}{\partial x}(x,y,z)=\dfrac{k_x}{x�+y�+z�}
+          \end{equation}
+          \begin{equation}
+              \dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}
+          \end{equation}
+          \begin{equation}
+              \dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}
+          \end{equation}
+
+
+
+          Integrando (1) em rela��o a $x$ obtemos:
+
+          \begin{center}
+
+              $f(x,y,z)=\integral \frac{k_x}{x�+y�+z�}\,dx + \phi (y,z) = \frac{k}{2} \ln(x�+y�+z�)+ \phi (y,z),$
+
+          \end{center}
+
+          Portanto,
+
+          \begin{center}
+
+              $\dfrac{\partial f}{\partial y}(x,y,z)=\dfrac{k_y}{x�+y�+z�}+\dfrac{\partial \phi}{\partial y}(y,z) \stackrel{(2)}{=} \dfrac{k_y}{x�+y�+z�} \Longrightarrow \dfrac{\partial \phi}{\partial y}(y,z)= 0 \Longrightarrow \phi (y,z) = \phi(z),$
+          \end{center}
+
+          isto � $\phi$ n�o depende de $y$. Calculando,
+
+          \begin{center}
+
+              $\dfrac{\partial f}{\partial z}(x,y,z)=\dfrac{k_z}{x�+y�+z�}+\dfrac{\partial \phi}{\partial z}(z) \stackrel{(3)}{=} \dfrac{k_z}{x�+y�+z�}\Longrightarrow \dfrac{\partial \phi}{\partial z}\phi(z)=0 \Longrightarrow \phi(z)=C.$
+
+          \end{center}
+
+          isto � $\phi$ tamb�m n�o depende de $x,y,z$.
+
+          \begin{center}
+              Se tomarmos $\phi = 0$ temos $f(x,y,z)=\dfrac{k}{2} \ln(x�+y�+z�)+ \phi (y,z)$, portanto,
+          \end{center}
+
+          $$W=\integral_\gamma \vec{F}\cdot d\vec{r}=f(1,0,2\pi)-f(1,0,0)=\dfrac{k}{2}\ln(1+4\pi�)$$
+          \begin{center}
+              ---------------------------------------------------------------
+          \end{center}
+    \item[\textbf{2}]- Mostre que a integral $\int_c (2y�-12x�y�)\,dx +(4xy-9x^4y�)dy$ � independente do caminho e calcule essa integral, sendo $C$ qualquer caminho de $(1,1)$ a $(3,2)$.
+          \doublespacing
+          \textbf{Solu��o:}
+          $$\int_C \overline{f} \,d \overline{r}=\int_C f_1dx + f_2dy$$
+
+
+          Em que:$$\overline{f}=(f_1,f_2)$$
+
+          Nesse caso, $\overline{f}(x,y)=(2y�-12x�y�)\vec{i}+(4xy-9x^4y�)\vec{j}$ , $D(\overline{f})=\mathbb{R}�$ � simplismente conexo (n�o tem buracos).
+
+          Verificando se o campo $\overline{f}$ � conservativo:
+          \begin{center}
+              $\dfrac{\partial f_1}{\partial y} = 4y - 36x�y� $ ; $\dfrac{\partial f_2}{\partial x} = 4y - 36x�y� $;
+
+              $\dfrac{\partial f_1}{\partial y} = \dfrac{\partial f_2}{\partial x} \Rightarrow \overline{f} $ � conservativo.
+              \singlespacing
+          \end{center}
+          Ent�o, existe uma fun��o $\phi(x,y)$, tal que $\Delta \phi(x,y) = \overline{f}(x,y)$.
+
+          Portanto, pelo Teorema 5.3, $\int_c (2y�-12x�y�)\,dx + (4xy - 9x^4y� \,dy$ � independente do caminho em $\mathbb{R}�$.
+
+          Vamos encontrar a fun��o $\phi(x,y)$ e usar o Teorema Fundamental para integrais de linha
+
+          \doublespacing
+          $\Delta \phi(x,y)=\overline{f}(x,y) \Rightarrow \dfrac{\partial \phi}{\partial x} = 2y�-12x�y�$  e  $\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4y�$.
+
+
+          $\dfrac{\partial \phi}{\partial x} = 2y� - 12x�y� \Rightarrow \phi(x,y) = \int (2y�-12x�y�)\,dx
+              = 2y�x - 3x^4y� + c(y)$
+
+          $\dfrac{\partial \phi}{\partial y} = 4xy - 9x^4y� + c'(y) = 4xy - 9x^4y�$.
+
+          Ent�o, $c'(y)=0$ e $c(y)=k$ (constante). Assim: $\phi(x,y)=(2y�x-3x^4y^3) + k $ e
+
+          $\int_c (2y�-12x�y�)\,dx + (4xy - 9x^4y�)\,dy = \phi(3,2) - \phi(1,1) = 1920 + 1 = 1921$.
+
+          \singlespacing
+          \begin{center}
+              ---------------------------------------------------------------
+          \end{center}
+    \item[\textbf{3}]- Sejam $\gamma_1$, $\gamma_2$ e $\gamma$ os seguintes caminhos ligando os pontos $A(1,1)$ e $B(2,4)$
+
+
+          \begin{center}
+              $\gamma_1$ : $x = 1 + t$, $y=1+ 3t$, $0\leqslant t \leqslant 1$ (segmento de reta)
+
+              $\gamma_2$ : $x=t$, $y=t�$, $0\leqslant t \leqslant 2$ (par�bola)
+          \end{center}
+
+          e $\gamma$ consiste do segmento horizontal, do ponto $A(1,1)$ ao ponto $C(2,1)$, seguido do seguimento vertical do ponto $C(2,1)$ ao ponto $B(2,4)$.
+
+          \begin{enumerate}
+              \item[1]. Ao longo de $\gamma_1$ , temos
+                    $$\int_{\gamma_1} ydx + 2xdy = \int_{0}^{1} [(1+3t) + 2(1+t)3]dt = \int_{0}^{1}(7+9t)dt = \dfrac{23}{2}. $$
+
+              \item[2]. Sobre $\gamma_2$, fazemos as substitui��es $x=t$, $y=t�$, $dx=dt$ e $dy=2tdt$ e obtemos:
+                    $$\int_{\gamma_2} ydx + 2xdy = \int_1^2 [t�+(2t)2t]dt = \int_1^2 5t�dt = \dfrac{35}{3}.$$
+
+              \item[3]. A poligonal $\gamma$ � composta dos seguimentos $\gamma_3$ e $\gamma_4$ e observando que $y=1$, sobre $\gamma_3$ e $x=2$, sobre $\gamma_4$, obtemos:
+                    $$\int_\gamma ydy + 2xdy = \int_{\gamma_3} ydx + 2xdy + \int_{\gamma_4} ydx + 2xdy = \int_1^2 dx + \int_1^4 4dy = 13.$$
+          \end{enumerate}
+          \begin{center}
+              ---------------------------------------------------------------
+          \end{center}
+    \item[\textbf{4}]- Use o Teorema de Green para calcular a integral de linha ao longo da curva dada com orienta��o positiva.
+
+          \begin{enumerate}
+              \item $\int_c \cos ydx + x� \sin y dy$, $C$ � o ret�ngulo com v�rtices $(0,0)$, $(5,0)$, $(5,2)$ e $(0,2)$
+              \item $\int_c (y+ e^{\sqrt{x}}) dx + (2x + \cos y�)dy$, $C$ � o limite da regi�o englobada pelas par�bolas $y=x�$ e $x=y�$
+          \end{enumerate}
+
+          \textbf{Resolu��o}:
+
+          \textbf{(a)}
+
+          A regi�o D cercada por $C$ �: $[0,5] \times [0,2]$, ent�o
+
+          \begin{align*}
+              \int_{c}\cos y\,dx + x�\sin y\,dy & =\iint_{D} \left[\frac{\partial}{\partial x}(x� \sin y) - \frac{\partial}{\partial y}(\cos y)\right]dA=  \int_0^5 \int_0^2[2x \sin y - (-\sin y)]\,dy\,dx \\&=\int_0^5 (2x+1)\,dx\,\int_0^2 \sin y \,dy = \left[x�+x \right]_0^5 \,\, \left[-\cos y \right]_0^2 = 30(1- \cos 2)
+          \end{align*}
+          \textbf{(b)}
+          \begin{align*}
+              \int_c (y+ e^{\sqrt{x}})\,dx + (2x + \cos y�)dy & = \iint_{D} \left[\frac{\partial}{\partial x}(2x + \cos y�) - \frac{\partial}{\partial y}(y+ e^{\sqrt{x}})\right]dA \\&= \int_0^1 \int_{y�}^{\sqrt{y}} (2-1)\,dx\,dy = \int_0^1 (y^{1/2}-y�)\,dy = \frac{1}{3}
+          \end{align*}
+          \begin{center}
+              ---------------------------------------------------------------
+          \end{center}
+    \item[\textbf{5}]- Use o teorema de Green para calcular $\int_c \textbf{F}\cdot d\textbf{r} $ (Verifique a orienta��o da curva antes de aplicar o teorema).
+          \begin{enumerate}
+              \item $\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $, $C$ � triangulo de $(0,0)$ a $(0,4)$ a $(2,0)$ a $(0,0)$
+              \item $\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $, $C$ consiste no da curva $y = \cos x $ de $(-\frac{\pi}{2},0)$ a $(\frac{\pi}{2},0)$
+          \end{enumerate}
+
+          \textbf{Solu��o}:
+
+          \textbf{(a)}
+
+          $\textbf{F}(x,y)= \langle y\cos x - xy\sen x, xy + x\cos x \rangle $ e a regi�o $D$ cercada por $C$ � dada por: $\lbrace(x,y)\,|\,0\leq x \leq 2\,\, , 0 \leq y \leq 4-2x\rbrace$. $C$ � percorrido no sentido hor�rio, ent�o $-C$ fornece a orienta��o positiva.
+
+          \begin{align*}
+              \int_C \textbf{F}\cdot d\textbf{r} & = -\int_{-C} (y\cos x - xy\sen x)\,dx + (xy + x\cos x)\,dy \\& = - \iint_{D} \left[\frac{\partial}{\partial x}(xy + x\cos x) - \frac{\partial}{\partial y}(y\cos x - xy\sen x)\right]dA\\& = -\iint_{D} (y - x\sen x + \cos x - \cos x + x\sen x)\,dA = -\int_0^2 \int_0^{4-2x}y\,dy\,dx \\& = -\int_0^2 \left[\frac{1}{2}y� \right]_{y=0}^{y=4-2x}\,dx = \int_0^2 \frac{1}{2}(4-2x)�\,dx = -\int_0^2(8-8x+2x�)dx = - \left[8x-4x�+\frac{2}{3}x� \right]_0^2\\&= -\left(16-16+\frac{16}{3}-0\right)=-\frac{16}{3}
+          \end{align*}
+
+          \textbf{(b)}
+
+          $\textbf{F}(x,y)= \langle e^{-x} + y^2, e^{-y} + x^2 \rangle $ e a regi�o $D$ cercada por $C$ � dada por: ${ (x,y)\,|\,-\frac{\pi}{2}\leq x \leq \frac{\pi}{2}\,\, , 0 \leq y \leq \cos x }$. $C$ � percorrido no sentido hor�rio, ent�o $-C$ fornece a orienta��o positiva.
+
+
+
+          \begin{align*}
+              \int_C \textbf{F}\cdot d\textbf{r} & = -\int_{-C} (e^{-x} + y^2)\,dx + (e^{-y} + x^2)\,dy \\& = - \iint_{D} \left[\frac{\partial}{\partial x}(e^{-y} + x^2) - \frac{\partial}{\partial y}(e^{-x} + y^2)\right]dA\\& = -\int_{-\pi/2}^{\pi/2} \int_0^{\cos x}(2x-2y)\,dy\,dx = -\int_{-\pi/2}^{\pi/2} \left[ 2xy - y� \right]_{y=0}^{y=\cos x}\,dx\\&= -\int_{-\pi/2}^{\pi/2}(2x \cos x - \cos^2 x)\,dx = -\int_{-\pi/2}^{\pi/2} \left(2x\cos x - \frac{1}{2}(1+ \cos 2x)\right)\,dx \\& = - \left[ 2x \sen x + 2 \cos x - \frac{1}{2}\left(x + \frac{1}{2} \sen 2x \right) \right]_{-\pi/2}^{\pi/2} \,\, [
+                      integrar \,\,\, por\,\,\,partes\,\,\, no\,\,\, primeiro\,\,\, termo]              \\& = - \left(\pi - \frac{1}{4}\pi -\pi - \frac{1}{4}\pi\right)= \frac{1}{2}\pi
+          \end{align*}
+
+          %%% \singlespacing Para um espa�amento simples
+          %%% \onehalfspacing Para um espa�amento de 1,5
+          %%% \doublespacing Para um espa�amento duplo
+
+
+\end{enumerate}
+
+\end{document}
+

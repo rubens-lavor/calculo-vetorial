@@ -1,0 +1,224 @@
+\documentclass[12pt]{article}                                                   
+\usepackage{amsthm}                                                         %%%
+\usepackage{amssymb}                                                        %%%
+\usepackage{amsfonts}                                                       %%%
+\usepackage{amsmath}                                                        %%%
+\usepackage{amscd}                                                          %%%
+\usepackage{mathrsfs}                                                       %%%
+\usepackage{latexsym}                                                       %%%
+\usepackage[brazil]{babel}                                                  %%%
+\usepackage[latin1]{inputenc}                                               %%%
+\usepackage{graphicx}                                                       %%%
+\usepackage{enumerate}                                                      %%%
+\usepackage{array}                                                          %%%
+\usepackage{float}                                                          %%%
+\usepackage{anysize}                                                        %%%
+\usepackage{ifthen}                                                         %%%
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.8cm]{geometry}  
+\usepackage{pgfplots}
+\usepackage{multicol}
+\usepackage{tasks}
+\usepackage{venndiagram}
+\usepackage[listings,skins,breakable]{tcolorbox}
+\usepackage{tikz}       
+\newcommand{\newfd}[5]{\begin{eqnarray*}{#1}:{#2} &\longrightarrow &{#3} \\{#4} &\longmapsto &{#5}\end{eqnarray*}}
+\DeclareMathOperator{\sen}{sen}
+\DeclareMathOperator{\senh}{senh}
+\DeclareMathOperator{\infi}{\acute{\i}nf}
+\DeclareMathOperator{\Rea}{Re}
+\DeclareMathOperator{\Ima}{Im}
+\DeclareMathOperator{\tg}{tg}
+\DeclareMathOperator{\arctg}{arctg}
+\DeclareMathOperator{\arcsen}{arcsen}
+\DeclareMathOperator{\arccosh}{arccosh}
+\DeclareMathOperator{\Id}{Id}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\cotg}{cotg}
+\DeclareMathOperator{\cossec}{cossec}
+\DeclareMathOperator{\mmc}{mmc}
+\DeclareMathOperator{\mdc}{mdc}
+\newcommand{\nn}{\mathbb{N}}
+\newcommand{\dis}{\displaystyle}
+\newcommand{\zz}{\mathbb{Z}}
+\newcommand{\qq}{\mathbb{Q}}
+\newcommand{\rr}{\mathbb{R}}
+\newcommand{\cc}{\mathbb{C}}
+
+\usepackage{wrapfig}
+\usepackage{setspace}
+
+\onehalfspacing
+
+\begin{document}                                                                                               %%%
+
+\begin{tcolorbox}[colback=black!0]                                                               %%%      
+\noindent\begin{minipage}{0.14\linewidth}
+%	\vspace*{-0.8cm}\hspace*{0.5cm}\includegraphics[height = 2.5cm]{UFSC}
+\hspace*{-0.2cm}\includegraphics[height = 2.5cm]{UFSC}
+\end{minipage}
+\noindent\begin{minipage}{0.69\linewidth}
+	\begin{center}
+		\vspace*{0.2cm}
+		{\bf \Large Universidade Federal de Santa Catarina} \\ \vspace{0.3cm}
+		{\bf \Large Centro Tecnológico de Joinville} \\ \vspace{0.3cm}
+	\end{center}
+\end{minipage}
+\noindent\begin{minipage}{0.14\linewidth}
+\hspace*{1.2cm}\includegraphics[height = 2.5cm]{UFSC}
+\end{minipage}
+\end{tcolorbox}
+
+
+\begin{tcolorbox}[colback=black!0]
+\begin{center}
+{\Large \bf Cálculo Vetorial}
+\end{center}
+\tcblower
+\begin{center}
+{\large \bf  Exercícios Resolvidos: Cálculo Volume 2 - James Stewart. Cap.13 - Exemplos: 6,19,22,26,27,28}
+\end{center}
+\end{tcolorbox}
+
+\begin{enumerate}
+\item[\textbf{6}]- $\textbf{r}(t) =  e^{t}$   $\vec{i}$ $+$ $ e^{-t} $ $ \vec{j}$, $t=\dfrac{\pi}{4} $
+
+	\begin{enumerate}
+		\item Esboce o gráfico da curva plana com a equação 			vetorial dada.
+		\item Encontre $\textbf{r}'(t)$.
+		\item Esboce o vetor posição $\textbf{r}(t)$ e o vetor tangente $\textbf{r}'(t)$ para o valor dado de $t$.
+	\end{enumerate}
+	
+
+\textbf{Resposta:}
+
+\begin{minipage}{.4\linewidth}
+
+Visto que $y=e^{-t} = \dfrac{1}{e^{t}} = \dfrac{1}{x}$ , a 
+
+curva faz parte da hipérbole $y=\dfrac{1}{y}$.
+
+Note que $x>0,y>0$. 
+
+\end{minipage}
+\begin{minipage}{.3\linewidth}
+a,c)
+	\begin{figure}[H]
+		\includegraphics[scale=0.5]{ex6.png}
+	\end{figure}
+	
+\end{minipage}
+\begin{minipage}{.3\linewidth}
+	\item[b])
+	
+	$\textbf{r}'(t) = e^t\textbf{i}-e^{-t}\textbf{j}$
+	
+	$\textbf{r}'(0) = \textbf{i} - \textbf{j}$	
+	
+\end{minipage}
+
+
+
+
+	\item[\textbf{19}]- Determine o vetor tangente unitário $T(t)$ no ponto com valor de parâmetro dado $t$.
+	
+	$\textbf{r}(t) = \cos(t)\vec{i} + 3t \vec{j} + 2\sin(2t)\vec{k}$
+	
+	
+	\textbf{Resposta:}
+	\doublespacing
+	
+
+	$\textbf{r}'(t) = -\sin(t)\textbf{i}+3\textbf{j}+4\cos(2t)\textbf{k}$ $\Rightarrow $ $\textbf{r}'(0)=3\textbf{j}+4\textbf{k}$, 
+	
+	portanto:
+	
+	$\textbf{T}(0)=\dfrac{\textbf{r}'(0)}{\vert \textbf{r}'(0) \vert} = \dfrac{1}{\sqrt{0^2+3^2+4^2}}(3\textbf{j}+4\textbf{k})=\dfrac{1}{5}(3\textbf{j}+4\textbf{k})= \dfrac{3}{5}\textbf{j}+\dfrac{4}{5}\textbf{k}$
+	
+	\doublespacing
+	
+	\item[\textbf{22}] - Se $\textbf{r}(t) = \langle e^{2t},e^{-2t},te^{2t}\rangle$, encontre $\textbf{T}(0),\textbf{r}''(0)$ e $\textbf{r}'(t)\cdot\textbf{r}''(t)$.
+	
+	\textbf{Resposta:}	
+	\doublespacing
+	
+	$\textbf{r}(t)=\langle e^{2t},e^{-2t},te^{2t} \rangle \Rightarrow \textbf{r}'(t)=\langle 2e^{2t},-2e^{-2t},(2t+1)e^{2t} \rangle \Rightarrow$ 
+	
+	$\textbf{r}'(0)=\langle 2e^{0},-2e^{0},(0+1)e^0 \rangle = \langle 2,-2,1 \rangle$ e $\vert \textbf{r}'(0) \vert = \sqrt{2^2+(-2)^2+1^2}=3$. 
+	
+	Então para $\textbf{T}(0)$ temos:
+	
+	$\textbf{T}(0)=\dfrac{\textbf{r}'(0)}{\vert \textbf{r}'(0) \vert} = \frac{1}{3}\langle 2,-2,1 \rangle = \langle \frac{2}{3}, \frac{-2}{3}, \frac{1}{3} \rangle$
+	
+	\doublespacing
+	
+	Para $\textbf{r}''(0)$:
+	
+	$\textbf{r}''(t)=\langle 4e^{2t},4e^{-2t},(4t + 4)e^{2t} \rangle \Rightarrow \textbf{r}''(0)=\langle 4e^{0},4e^{0},(0 + 4)e^{0} \rangle = \langle 4,4,4 \rangle$
+
+	\doublespacing
+	
+	Para $\textbf{r}'(t) \cdot \textbf{r}''(t)$:	
+	
+	$\textbf{r}'(t)\cdot\textbf{r}''(t)=\langle 2e^{2t},-2e^{-2t},(2t+1)e^{2t} \rangle \cdot \langle 4e^{2t},4e^{-2t},(4t + 4)e^{2t} \rangle$
+	
+	$\quad \quad \quad \quad \quad =$ 
+	$(2e^{2t})(4e^{2t})+(-2e^{-2t})(4e^{-2t})+((2t+1)e^{2t})((4t+4)e^{2t})$
+	
+	$\quad \quad \quad \quad \quad =$ 
+	$8e^{4t}-8e^{-4t}+(8t^2+12t+4)e^{4t} = (8t^2+12t+12)e^{4t}-8e^{-4t}$
+		
+	
+	\doublespacing
+	\item[\textbf{26}] - Determine as equações paramétricas para a reta tangente à curva dada pelas equações paramétricas, no ponto especificado. 
+	$x = \sqrt{t^2 +3}$ ; $y= \ln{t^2 +3}$ ; $z=t$;  $(2,\ln{4},1)$
+	
+	\textbf{Resposta:}
+	\doublespacing
+	
+	
+A equação vetorial para a curva é $\textbf{r}(t)=\langle \sqrt{t^2+3}, \ln{(t^2+3)},t \rangle$, então $\textbf{r}'(t)= \left\langle \dfrac{t}{\sqrt{t^2+3}}, \dfrac{2t}{(t^2+3)},1 \right\rangle$
+
+Em $(2,\ln{4},1)$, $t=1$ e $\textbf{r}'(1)=\left\langle \dfrac{1}{2}, \dfrac{1}{2}, 1 \right\rangle$. 
+Portanto, as equações paramétricas da reta tangente são $x=2+ \frac{1}{2}t$, $y=\ln{4} + \frac{1}{2}t$, $z=1+t$
+
+
+	
+	
+	\doublespacing
+	
+	\item[\textbf{27}] - Encontre uma equação para a reta tangente à curva de intersecção dos cilindros $x^{2} + y^{2} = 25$ e $y^{2} + z^{2} = 20$ no ponto $(3,4,2)$.
+	
+	\textbf{Resposta:}
+	\doublespacing
+	
+	
+Primeiro, parametrizamos a curva \textit{C} de interseção. A projeção de \textit{C} no $xy$-plano está contida no círculo $x^2+y^2=25$, $z=0$; então podemos escrever $x=5\cos(t)$, $y=5\sin(t)$. \textit{C} também se encontra no cilindro $y^2+z^2=20$, e $z\geq0$ 
+perto do ponto $(3,4,2)$, possamos escrever $z=\sqrt{20-y^2} = \sqrt{20-25\sin^2(t)}$. Uma equação vetorial para \textit{C} é:
+	$\textbf{r}(t)=\langle 5\cos(t),5\sin(t),\sqrt{20-25\sin^2(t)} \rangle \Rightarrow \textbf{r}'(t)=\langle-5\sin(t),5\cos(t),\frac{1}{2}(20-25\sin^2(t)^{-1/2})(-50\sin(t)\cos(t))\rangle$
+	
+	
+A reta tangente é paralela a este vetor e passa por $(3,4,2)$, então uma equação vetorial para a reta é
+
+$\textbf{r}(t)=(3-4t)\textbf{i}+(4+3t)\textbf{j}+(2-6t)\textbf{k}$
+	\doublespacing
+	
+	\item[\textbf{28}] - Encontre o ponto na curva de $\textbf{r}(t) = \langle 2\cos(t), 2\sin(t), e^t \rangle$, $0 \leqslant t \leqslant \pi$, em que  a reta tangente é paralela ao plano $\sqrt{3}+y=1$
+	
+	\textbf{Resposta:}
+	\doublespacing
+	
+	$\textbf{r}(t)=\langle 2\cos(t),2\sin(t),e^t \rangle \Rightarrow \textbf{r}'(t)= \langle -2\sin(t),2\cos(t),e^t \rangle$. 
+A reta tangente à curva é paralela ao plano quando o
+
+o vetor tangente da curva é ortogonal ao vetor normal do plano. 
+
+Portanto, exigimos que $\langle -2\sin(t),2\cos(t),e^t \rangle \cdot \langle \sqrt{3},1,0 \rangle = 0 \Rightarrow -2\sqrt{3}\sin(t)+2\cos(t)+0=0$
+
+$\Rightarrow \tg(t)=\frac{1}{\sqrt{3}} \Rightarrow t=\frac{\pi}{6}$ com $[0 \leq t \leq \pi]$
+
+$\textbf{r}(\frac{\pi}{6})=\langle \sqrt{3},1,e^{\pi/6} \rangle$, então o ponto é $(\sqrt{3},1,e^{\pi/6})$.
+
+\end{enumerate}
+
+\end{document}                                                                                         
+
