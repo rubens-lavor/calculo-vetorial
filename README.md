@@ -1,3 +1,3 @@
 # calculo-vetorial
 
-exercícios do livro calculo volume 2 james stewart
+exercícios do livro cálculo volume 2 james stewart
